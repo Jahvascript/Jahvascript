@@ -4,123 +4,138 @@
 
 ### Code with purpose. Build with unity.
 
-**Software Engineering • AI Systems • Automation • Open Source**
+**Software Development • AI Systems • Automation • Hardware Integration**
 
-Building intelligent tools, exploring offline-first AI,
-and creating software that helps people solve real problems.
+Building practical software, exploring offline-first AI,
+and connecting technology with real-world problems.
 
-[Projects](https://github.com/Jahvascript?tab=repositories) •
-[Community Standards](https://github.com/Jahvascript/.github) •
+[Projects](https://github.com/Jahvascript?tab=repositories) ·
+[LinkedIn](https://www.linkedin.com/in/bdunbarmd/) ·
 [Contact](mailto:jahvascripts@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About JahvaScript
+## 👨‍💻 About Me
 
-JahvaScript is my software engineering identity,
-combining a creative nod to **Jah** in Rastafari culture
-with my passion for **JavaScript** and technology.
+I'm the developer behind **JahvaScript** — a name inspired
+by Jah and my passion for JavaScript and technology.
 
-My interests include artificial intelligence, computer
-science, software development, hardware engineering,
-automation, cybersecurity, and open-source collaboration.
+My interests include computer science, AI systems, native
+application development, hardware engineering, cybersecurity,
+and automation.
 
-I believe technology should empower people, encourage
-learning, and create opportunities for everyone.
+I enjoy designing modular tools, exploring how different
+technologies work together, and building software that can
+remain useful without a constant internet connection.
 
-### 🛠️ Engineering Focus
-
-- **AI & Intelligent Systems:** Multi-model AI,
-  local inference, intelligent agents, and automation.
-- **Software Development:** Python, JavaScript,
-  Lua, Rust, Swift, and application engineering.
-- **Hardware & Embedded Systems:** Electronics,
-  device integration, and calculator development.
-- **Cybersecurity:** Privacy-conscious design,
-  secure development, and data protection.
-- **Offline-First Architecture:** Systems that remain
-  useful even without an internet connection.
-
----
+**Engineering principle:**
+*Internet improves the agent; internet does not make the agent function.*
 
 ## 🚀 Featured Projects
 
-### 🎮 GTA VI AI Content Factory
+### 🤖 [LocalPilot](https://github.com/Jahvascript/localpilot)
+An offline-capable macOS assistant prototype using Swift,
+Accessibility APIs, and controlled desktop automation.
 
-AI-assisted gaming content discovery, automated
-video processing, short-form clipping, and publishing
-workflow research.
+**Stack:** Swift, AppKit, macOS Accessibility
 
-[Explore the project](https://github.com/Jahvascript/gta6-ai-content-factory)
+### 🎮 [InputBridge](https://github.com/Jahvascript/InputBridge)
+An experimental macOS keyboard-and-mouse-to-controller
+input bridge with live visualization and DualShock 4
+report simulation.
 
-### 🤖 JahvaScript AI Trader
+**Stack:** Swift, IOKit, AppKit
 
-Experimental AI-assisted market intelligence,
-technical analysis, multi-model research,
-and trading risk-management tools.
+*Simulation tested; virtual-controller integration remains unverified.*
 
-[Explore the project](https://github.com/Jahvascript/jahvascript-ai-trader)
+### 🧮 [TI-Nspire Development Suite](https://github.com/Jahvascript/ti-nspire-development-suite)
+A collection of calculator and desktop development tools:
 
-### 🧮 TI-Nspire Development Suite
+- **NspireDesk:** Calculator communication and file-transfer tooling
+- **TNSStudio:** TNS document-generation and conversion tooling
+- **PrecalculusStudio:** Lua-based calculator learning software
 
-Calculator software development using Lua,
-Swift, Rust, and native macOS tooling.
+**Stack:** Swift, Rust, Lua, USB
 
-Includes PrecalculusStudio, NspireDesk,
-and TNSStudio.
+*Local software tests passed; physical calculator compatibility
+requires further validation.*
 
-[Explore the project](https://github.com/Jahvascript/ti-nspire-development-suite)
+### 💻 [Chatbrew](https://github.com/Jahvascript/chatbrew)
+A terminal-inspired browser theme for ChatGPT,
+with an optional macOS Comet launcher.
 
----
+**Stack:** CSS, browser extensions, shell scripting
 
-## 🌍 Everyone Is Welcome
+### 📊 [JahvaScript AI Trader](https://github.com/Jahvascript/jahvascript-ai-trader)
+Research into AI-assisted market intelligence,
+technical indicators, multi-model analysis,
+and risk-management workflows.
 
-**Different backgrounds. Different experiences.
-One community.**
+**Stack:** Python, AI research, market-data analysis
 
-Open source is for everyone.
+*Experimental research software, not a validated live-trading system.*
 
-Whether you're an experienced developer, a beginner,
-a student, or someone with a new idea, you're
-welcome to learn, collaborate, and contribute.
+### 🎬 [GTA VI AI Content Factory](https://github.com/Jahvascript/gta6-ai-content-factory)
+An upstream-based workflow project exploring gaming
+content discovery, video clipping, metadata generation,
+and short-form publishing automation.
 
-I value peace, respect, accessibility,
-creativity, constructive feedback,
-and sharing knowledge.
+**Stack:** Python, automation, media processing
 
-**Every contribution counts.
-Every voice deserves respect.**
-
-### Community Guidelines
-
-- [Code of Conduct](https://github.com/Jahvascript/.github/blob/main/CODE_OF_CONDUCT.md)
-- [Contributing](https://github.com/Jahvascript/.github/blob/main/CONTRIBUTING.md)
-- [Accessibility and Inclusion](https://github.com/Jahvascript/.github/blob/main/ACCESSIBILITY.md)
-- [Community Support](https://github.com/Jahvascript/.github/blob/main/SUPPORT.md)
-
-Our community resources draw on the
-[Contributor Covenant](https://github.com/Jahvascript/contributor_covenant)
-and [Mozilla Inclusion](https://github.com/Jahvascript/inclusion).
+*Work in progress; original upstream attribution is retained.*
 
 ---
 
-## 📬 Connect
+## 🛠️ Technical Focus
 
-Have an idea, want to collaborate,
-or interested in one of my projects?
+| Area | Technologies |
+| --- | --- |
+| Programming | Python, Swift, Rust, JavaScript, Lua, Bash |
+| AI & Automation | Local AI, intelligent agents, orchestration |
+| Native Software | macOS, AppKit, Accessibility APIs |
+| Hardware Integration | USB, HID, calculator development, electronics |
+| Engineering | Testing, modular design, reproducible builds |
+| Security | Privacy-conscious architecture, credential protection |
 
-**Email:** jahvascripts@gmail.com
+## 🧭 Development Philosophy
 
-**GitHub:** https://github.com/Jahvascript
+- **Offline-first:** Build core functionality that works locally.
+- **Test and verify:** Distinguish working features from experiments.
+- **Privacy-conscious:** Protect credentials and personal information.
+- **Modular architecture:** Make systems maintainable and extensible.
+- **Open collaboration:** Credit upstream work and welcome contributions.
+
+## 🌱 Open Source & Community
+
+I also maintain attributed forks, including
+[InternetNamesMCP](https://github.com/Jahvascript/InternetNamesMCP)
+and [Vorssaint Developer Tools](https://github.com/Jahvascript/vorssaint-utils).
+
+**Different backgrounds. Different experiences. One community.**
+
+At JahvaScript, everyone is welcome to contribute,
+learn, suggest improvements, and collaborate.
+
+[Code of Conduct](https://github.com/Jahvascript/.github/blob/main/CODE_OF_CONDUCT.md) ·
+[Contributing](https://github.com/Jahvascript/.github/blob/main/CONTRIBUTING.md) ·
+[Accessibility](https://github.com/Jahvascript/.github/blob/main/ACCESSIBILITY.md) ·
+[Support](https://github.com/Jahvascript/.github/blob/main/SUPPORT.md)
+
+## 📬 Connect With Me
+
+**LinkedIn:** [linkedin.com/in/bdunbarmd](https://www.linkedin.com/in/bdunbarmd/)
+
+**GitHub:** [github.com/Jahvascript](https://github.com/Jahvascript)
+
+**Email:** [jahvascripts@gmail.com](mailto:jahvascripts@gmail.com)
 
 ---
 
 <div align="center">
 
 ### JahvaScript
-
 **Code with purpose. Build with unity.**
 
 *Peace • Love • Unity • Innovation*
